@@ -1,3 +1,3 @@
 # beginningPandas
 
-Introduction to Pandas my Matt Harrison
+Introduction to Pandas by Matt Harrison
